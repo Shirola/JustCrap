@@ -1,0 +1,2 @@
+# JustCrap
+Initial learning place
