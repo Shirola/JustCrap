@@ -1,0 +1,3 @@
+#!/bin/bash
+#my 1st linux program
+echo Hellow World!
